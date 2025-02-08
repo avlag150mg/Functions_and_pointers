@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2525b1dd-5fe1-456e-b778-22abaec1ed71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Functions and pointers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Functions and pointers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and pointers..vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and pointers..vcxproj" afterDir="false" />
+    <list default="true" id="2525b1dd-5fe1-456e-b778-22abaec1ed71" name="Changes" comment="dev">
       <change beforePath="$PROJECT_DIR$/main/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +35,7 @@
     "accountId": "e50ebd48-5f2e-49ee-a17a-f7944f796943"
   }
 }]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -51,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "TASK1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,15 +88,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739022364293</updated>
-      <workItem from="1739022366870" duration="946000" />
+      <workItem from="1739022366870" duration="1524000" />
     </task>
+    <task id="LOCAL-00001" summary="dev">
+      <option name="closed" value="true" />
+      <created>1739023339600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739023339600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev" />
   </component>
 </project>
